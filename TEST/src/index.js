@@ -1,6 +1,6 @@
 // 변수는 변화하는 값을 저장하는 것
 
-// let name = "수민";
+let name = "수민";
 name = "sumin";
 console.log(name);
 
@@ -28,6 +28,6 @@ let isTrueOrFalse;
 
 // 상수 : 변하지 않는 값을 저장하는 저장소
 const birthday = "12-21";
-const name = "sumin";
+//const name = "sumin";
 // 대문자로 상수 작성
 const EMAIL_ADDRESS = "123@gmail.com";
